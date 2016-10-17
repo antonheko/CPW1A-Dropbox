@@ -1,26 +1,26 @@
-Time spent: `6hrs`
+Time spent: `7hrs`
 
 ### Features
 
 #### Required
 
-- [ ] User can tap through the 3 welcome screens.
-- [ ] User can follow the create user flow.
-  - [ ] On the create user form, the user can tap the back button to go to the page where they can sign in or create an account.
-  - [ ] Before creating the account, user can choose to read the terms of service.
-  - [ ] After creating the account, user can view the placeholders for Files, Photos, and Favorites as well as the Settings screen.
-  - [ ] User can log out from the Settings screen.
-- [ ] User can follow the sign in flow.
-  - [ ] User can tap the area for "Having trouble signing in?".
-  - [ ] User can log out from the Settings screen.
+- [x] User can tap through the 3 welcome screens.
+- [x] User can follow the create user flow.
+  - [x] On the create user form, the user can tap the back button to go to the page where they can sign in or create an account.
+  - [x] Before creating the account, user can choose to read the terms of service.
+  - [x] After creating the account, user can view the placeholders for Files, Photos, and Favorites as well as the Settings screen.
+  - [x] User can log out from the Settings screen.
+- [x] User can follow the sign in flow.
+  - [x] User can tap the area for "Having trouble signing in?".
+  - [x] User can log out from the Settings screen.
 
 #### Optional
 
-- [ ] User can view a detail view for one of the files and favorite the file.
+- [x] User can favorite the file.
 - [ ] User can actually type in the forms and tap to dismiss the keyboard.
 - [ ] User can swipe through the welcome screens instead of just tapping them.
 - [ ] User sees updated page indicator dots using page control.
-- [ ] User can view actual Dropbox Terms of Service in a web view.
+- [x] User can view actual Dropbox Terms of Service in a web view.
 - [ ] User is presented with native action sheet to view and agree with terms of service.
 - [ ] User sees updated password strength as they type in password field.
 
@@ -30,8 +30,7 @@ Time spent: `6hrs`
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
-1. 
-2. 
+1. Are there any better/easier ways of skipping steps and going back in the Navigation Controllers?
 
 ### Video Walkthrough 
 
